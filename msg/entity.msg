@@ -1,0 +1,11 @@
+time lastUpdateTime
+int64 ID
+string name
+string color
+geometry_msgs/Point position
+sara_msgs/BoundingBox3D BoundingBox
+float32 direction
+geometry_msgs/Point velocity
+string gender
+string emotion
+string[] aliases

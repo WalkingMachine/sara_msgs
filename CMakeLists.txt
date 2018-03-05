@@ -21,6 +21,7 @@ add_message_files(
         Bodypart.msg
         BoundingBox2D.msg
         BoundingBox3D.msg
+        entity.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
