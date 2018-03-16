@@ -1,4 +1,5 @@
 time lastUpdateTime
+float64 probability
 int64 ID
 string name
 string color
