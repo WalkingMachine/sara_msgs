@@ -8,7 +8,7 @@ string[] aliases                        # TODO: Documentation
 # Description of the object:
 string name                             # Name of the object
 string category                         # Category of the object (e.g. Food / Tools / ...)
-string class                            # Recognition name of the object (e.g. Apple / Person / Pen / ...)
+string yoloClass                        # Recognition name of the object (e.g. Apple / Person / Pen / ...)
 string color                            # The verbal color of the object
 
 float64 weight                          # The weight of the object (For GPSR and SPR)
