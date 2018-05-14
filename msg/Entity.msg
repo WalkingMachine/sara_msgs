@@ -10,3 +10,4 @@ geometry_msgs/Point velocity
 string gender
 string emotion
 string[] aliases
+FaceMsg face
