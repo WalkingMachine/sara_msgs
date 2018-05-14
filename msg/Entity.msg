@@ -6,11 +6,11 @@ int32 wonderlandId                      # Id of the entity in Wonderland
 string[] aliases                        # TODO: Documentation
 
 # Description of the object:
-string name                             # Name of the object
+string name                             # Recognition name of the object (e.g. Apple / Person / Pen / ...)
 string category                         # Category of the object (e.g. Food / Tools / ...)
-string yoloClass                        # Recognition name of the object (e.g. Apple / Person / Pen / ...)
 string color                            # The verbal color of the object
 
+# Physical description of the object:
 float64 weight                          # The weight of the object (For GPSR and SPR)
 float64 size                            # The size of the object (For GPSR and SPR)
 
