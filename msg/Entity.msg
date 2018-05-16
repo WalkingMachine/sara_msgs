@@ -23,4 +23,7 @@ int32 containerId                       # Id of the entity were this is containe
 sara_msgs/BoundingBox3D BoundingBox     # Bounding box representing the object
 
 # Description of an human
-FaceMsg face                            # TODO: Documentation
+sara_msgs/FaceMsg face
+string pose
+float64 poseProbability
+bool isOperator
