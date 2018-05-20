@@ -1,4 +1,4 @@
-BoundingBox2D boundingBoxe
+BoundingBox3D boundingBox
 string id
 string name
 string emotion
