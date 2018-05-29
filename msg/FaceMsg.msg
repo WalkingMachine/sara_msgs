@@ -5,3 +5,4 @@ string emotion
 string emotionProbability
 string gender
 float64 genderProbability
+uint8 age
