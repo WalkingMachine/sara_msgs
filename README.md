@@ -47,7 +47,7 @@ See the msg folder for more information about each message
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/walkingmachine/sara_msgs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/JeffCousineau/5ddad03418b09750e2a4afcb198b50e1) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
