@@ -1,6 +1,6 @@
 # sara_msgs
 
-This repository contains all custom ROS messages related to our robot SARA in order to simplify development and deployment of the SARA software.
+This repository contains all custom ROS messages related to our robot SARA in order to simplify development and deployment of the software.
 
 ## Getting Started
 
