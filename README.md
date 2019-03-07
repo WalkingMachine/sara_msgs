@@ -55,7 +55,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-See also the list of [contributors](https://github.com/walkingmahcine/sara_msgs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/walkingmachine/sara_msgs/contributors) who participated in this project.
 
 ## License
 
