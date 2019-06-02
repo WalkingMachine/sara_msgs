@@ -19,7 +19,7 @@ geometry_msgs/Point position            # Localisation in space of the object
 geometry_msgs/Pose2D waypoint           # Most accurate pose to reach for obtain the object
 geometry_msgs/Point velocity            # Actual velocity of the object
 int32 containerId                       # Id of the entity were this is contained in Wonderland
-
+sensor_msgs/PointCloud2 pointcloud      # Pointcloud of the object for grasping detection
 sara_msgs/BoundingBox3D BoundingBox     # Bounding box representing the object
 
 # Description of an human

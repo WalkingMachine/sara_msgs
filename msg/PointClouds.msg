@@ -4,4 +4,4 @@
 Header header
 
 # Array of 3d pointclouds.
-sensor_msgs/PointCloud2[] pointClouds
+PointCloud[] pointClouds
