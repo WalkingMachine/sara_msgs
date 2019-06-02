@@ -26,6 +26,7 @@ add_message_files(
         BoundingBoxes3D.msg
         Entities.msg
         Entity.msg
+		PointCloud.msg
 		PointClouds.msg
 	FaceMsg.msg
 	Faces.msg
