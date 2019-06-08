@@ -17,9 +17,9 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
         FILES
-        Person.msg
+        BodyPart.msg
         Pose.msg
-        Bodypart.msg
+        Poses.msg
         BoundingBox2D.msg
         BoundingBox3D.msg
         BoundingBoxes2D.msg
