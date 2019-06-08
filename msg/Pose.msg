@@ -1,1 +1,3 @@
-sara_msgs/Bodypart[] part
+BodyPart[] parts
+string posture
+string gesture
