@@ -24,6 +24,6 @@ sara_msgs/BoundingBox3D BoundingBox     # Bounding box representing the object
 
 # Description of an human
 sara_msgs/FaceMsg face
-string pose
+Pose pose
 float64 poseProbability
 bool isOperator
