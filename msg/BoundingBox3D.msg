@@ -1,8 +1,7 @@
-string Class
+string class
 float64 probability
 
-geometry_msgs/Point Center
-float64 Depth
-float64 Width
-float64 Height
-
+geometry_msgs/Pose pose
+float64 depth
+float64 width
+float64 height
