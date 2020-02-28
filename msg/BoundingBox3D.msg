@@ -1,4 +1,4 @@
-string class
+string className
 float64 probability
 
 geometry_msgs/Pose pose
