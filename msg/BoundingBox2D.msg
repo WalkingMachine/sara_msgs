@@ -1,5 +1,6 @@
 string className
 float64 probability
+int16 id
 int64 xmin
 int64 ymin
 int64 xmax
